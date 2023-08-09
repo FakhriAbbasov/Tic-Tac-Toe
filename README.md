@@ -1,9 +1,9 @@
 # tic-tac-toe
 
-![screenshot1](ScreenShots/tictactoeScreenshot1.png)
+![screenshot1](screenshots/tictactoeScreenshot1.png)
 
 
-![screenshot2](ScreenShots/tictactoeScreenshot2.png)
+![screenshot2](screenshots/tictactoeScreenshot2.png)
 
 # Getting Started with Create React App
 
