@@ -1,0 +1,22 @@
+.score {
+  display: flex;
+  font-size: 50px;
+  margin: 30px auto;
+  justify-content: center;
+}
+
+.x-score {
+  color: #ff0000;
+  border: 5px solid #ff0000;
+  padding: 20px;
+}
+
+.o-score {
+  color: #3e91ff;
+  border: 5px solid #3e91ff;
+  padding: 20px;
+}
+
+.notPlaying {
+  border: transparent;
+}

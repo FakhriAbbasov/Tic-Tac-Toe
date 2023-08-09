@@ -1,0 +1,10 @@
+button {
+  display: flex;
+  justify-content: center;
+  width: 250px;
+  background-color: #ff8c00;
+  color: white;
+  font-size: 30px;
+  padding: 10px 10px;
+  margin: 20px auto;
+}
